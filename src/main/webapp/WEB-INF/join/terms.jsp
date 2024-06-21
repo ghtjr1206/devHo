@@ -12,7 +12,8 @@
 .wrapSign {
 	width: 310px;
 	margin: 0 auto;
-	margin-top: 30px;
+	margin-top: 100px;
+	margin-bottom: 300px;
 }
 .form1 {
 	margin-top: 30px;
@@ -293,7 +294,7 @@ span.all {
 				IMP.certification(
 				  {
 				    pg: "inicis_unified.MIIiasTest",
-				    m_redirect_url: "http://bichena.kro.kr/mobileCer.ko"
+				    m_redirect_url: "http://localhost:8090/mobileCer.ko"
 				  },
 				  function (rsp) {
 				    if (rsp.success) {

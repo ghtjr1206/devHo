@@ -27,6 +27,7 @@
 }
 .btn-div {
 	padding: 0 200px;
+	margin-bottom: 50px;
 }
 /* extra small */
 @media screen and (max-width:540px) {

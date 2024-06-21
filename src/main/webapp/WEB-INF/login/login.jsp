@@ -57,6 +57,7 @@ h2 {
 
 .container.login {
 	margin-top: 100px;
+	margin-bottom: 300px;
 	display: flex;
 	flex-direction: column;
 	align-items: center;

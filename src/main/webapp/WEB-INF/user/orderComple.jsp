@@ -8,7 +8,7 @@
 <style>
 .success {
 	width: 500px;
-	margin: 0 auto;
+	margin: 300px auto;
 	text-align: center;
 }
 

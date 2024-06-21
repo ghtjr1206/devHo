@@ -911,6 +911,7 @@ display:none;
 										</span>
 									</div>
 								</div>
+								<div class="swiper-productname">${list.p_name}</div>
 								<div class="swiper-reviewtext">
 									<div class="swiper-productscore" >
 						            	<c:choose>
